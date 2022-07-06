@@ -22,4 +22,5 @@ def regist():
     time.sleep(2) # give a time lag of 2 seconds
     driver.close() # close window browser
 
+
 regist()

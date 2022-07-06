@@ -23,4 +23,5 @@ def regist():
     driver.close() # close window browser
 
 
+
 regist()
